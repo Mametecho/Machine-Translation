@@ -1,1 +1,1 @@
-Error happen becouse of the previous code is not runned
+An error happen becouse the previous code is not run
